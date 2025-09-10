@@ -1,5 +1,5 @@
 # CarSalesNaiveBayes-Classification
-<img src= "https://i.postimg.cc/CLRdTJ2G/Chat-GPT-Image-Aug-20-2025-11-04-14-PM.png" width="1000" height="400">
+<img src= "https://i.postimg.cc/JzCpPzqY/Chat-GPT-Image-Aug-20-2025-11-04-14-PM.png" width="1000" height="400">
 It is a collection of data showing the sale of a brand car among different customers and their responses.It is a supervised learning data. We can use this data for classification purpose ,and also many classification algorithms such as Naive bayes classifier , Decision tree , logistic Regression can be applied on it for the future prediction. It is a typical data helpful to understand the behaviour of customers
 Problem Statement :
 
